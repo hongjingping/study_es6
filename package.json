@@ -1,0 +1,15 @@
+{
+  "name": "7.ES6",
+  "version": "1.0.0",
+  "description": "这个是ES6代码",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/index.js -o dist/index.js"
+  },
+  "keywords": [],
+  "author": "wikiHong",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
